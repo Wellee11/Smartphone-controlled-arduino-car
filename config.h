@@ -1,1 +1,1 @@
-#define INTERVALL = 3
+#define INTERVALL 3
